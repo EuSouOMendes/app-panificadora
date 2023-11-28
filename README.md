@@ -34,7 +34,7 @@ A tela de edição permite que os usuários modifiquem as informações de um cl
 ## Tecnologias Utilizadas
 
 - **Flutter:** O aplicativo é desenvolvido em Flutter, um framework open-source para a criação de interfaces de usuário multiplataforma.
-- **SQLite e sqflite:** A persistência de dados é gerenciada através do SQLite, utilizando o plugin `sqflite` do Flutter, que fornece uma camada de abstração para facilitar a integração e operações no banco de dados SQLite.
+- [**SQLite e sqflite:**](https://pub.dev/packages/sqflite/install) A persistência de dados é gerenciada através do SQLite, utilizando o plugin [`sqflite`](https://pub.dev/packages/sqflite/install) do Flutter, que fornece uma camada de abstração para facilitar a integração e operações no banco de dados SQLite.
 
 ## Integrantes
 
@@ -45,6 +45,15 @@ A tela de edição permite que os usuários modifiquem as informações de um cl
 ## Conclusão
 
 O aplicativo de gerenciamento de clientes para panificadora oferece uma solução moderna e eficaz para simplificar as tarefas administrativas relacionadas aos clientes. Com uma interface intuitiva e funcionalidades bem projetadas, o app proporciona uma experiência fluida aos usuários, tornando o processo de cadastro, edição e exclusão de clientes uma tarefa simples e organizada.
+
+## Dependencias necessarias para Executar o Projeto
+
+- Flutter SDK
+- Java 8
+- Android SDK
+- Emulador android(virtual device)
+
+Siga os passos abaixo para clonar e executar o projeto:
 
 ## Passo a Passo para Clonar e Executar o Projeto
 
