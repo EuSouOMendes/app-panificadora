@@ -78,7 +78,9 @@ Siga os passos abaixo para clonar e executar o projeto:
    flutter pub get
    ```
 
-4. **Execute o Projeto:**
+4. **Selecione o modo androido para executar aplicação**
+
+5. **Execute o Projeto:**
 
    ```Bash
    flutter run
