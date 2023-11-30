@@ -40,7 +40,8 @@ A tela de edição permite que os usuários modifiquem as informações de um cl
 
 - Leonardo filho
 - Paulo Eduardo
-- Filipe Borja e Douglas Ronan
+- Vinicius Sodré
+- Douglas Ronan
 
 ## Conclusão
 
